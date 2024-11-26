@@ -7,7 +7,7 @@
 - 🚀 Built with React.js and TypeScript for a robust and maintainable codebase.
 - 🎨 Stylish and responsive design powered by Tailwind CSS.
 - 📋 Easily customizable to add hospital-specific content and branding.
-- 🧰 Extendable architecture for additional sections like About, Services, Contact, etc.
+- 🧰 Extendable architecture for additional sections like About, Services, Contact, etc...
 
 ## Getting Started:
 
